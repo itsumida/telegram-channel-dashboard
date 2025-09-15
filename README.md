@@ -43,8 +43,7 @@ The goal was to practice text cleaning, data modeling, and visualization — and
 
 ## 📷 Screenshots  
 (Add images from your dashboard here, for example:)  
-- `images/posts-per-year.png`  
-- `images/wordcount-trend.png`  
-- `images/weekday-activity.png`  
+- `images/posting-behaviour.png`  
+- `images/trends-in-length.png`    
 
 --- 
